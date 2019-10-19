@@ -44,7 +44,7 @@ Part of the [Composition Commons](http://network.bepress.com/arts-and-humanities
 
 ### 翻訳　[ねことほんだな](https://twitter.com/l_o_0_0_o_1/status/1181474516045725696)
 
-<img src="../../../Documents/github-images/copy.png" style="zoom: 33%;" /> 
+<img src="https://github.com/dauuricus/supercollider_tutorial_book/blob/master/copy.png" style="zoom: 33%;" /> 
 
 
 
