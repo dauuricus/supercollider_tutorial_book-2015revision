@@ -38,7 +38,7 @@ Part of the [Composition Commons](http://network.bepress.com/arts-and-humanities
 <div style="page-break-before:always"></div>
 #  SuperColliderのやさしい紹介
 
-
+![](https://github.com/dauuricus/supercollider_tutorial_book/blob/master/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B3%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%81%AE%E5%84%AA%E3%81%97%E3%81%84%E7%B4%B9%E4%BB%8B.tif)
 
 ### 著者　ブルーノ・ルヴィアロ
 
