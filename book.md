@@ -52,6 +52,7 @@ Part of the [Composition Commons](http://network.bepress.com/arts-and-humanities
  http://creativecommons.org/licenses/by-sa/4.0/
 
 <div style="page-break-before:always"></div>
+
 [TOC]
 
 <div style="page-break-before:always"></div>
