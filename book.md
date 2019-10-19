@@ -1,4 +1,4 @@
-![](SuperCollider-cover.png)
+![](https://github.com/dauuricus/supercollider_tutorial_book/blob/master/SuperCollider(cover).png)
 
 <div style="page-break-before:always"></div>
  **サンタクララ大学**
