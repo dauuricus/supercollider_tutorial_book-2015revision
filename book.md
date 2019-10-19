@@ -1022,7 +1022,7 @@ var myDurs = Pseq([Pn(1,5),3,Pn(1,5),3,Pn(1,6),1/2,1/2,1,1,3,1,3] ,inf)* 0.4;
 
 第二に、前述のように、スコアとプレイヤーの分離に注意してください。 Pbind が定義されると、すぐには再生されません。閉じ括弧の直後に .play はありません。
 
-![Figure03](https://github.com/dauuricus/supercollider_tutorial_book/blob/master/Figure03.png)
+![Figure03](https://github.com/dauuricus/supercollider_tutorial_book/blob/master/Figure03.PNG)
 
 図3 pbind Tchaikovsky melodyの対位法：
 
@@ -1058,7 +1058,7 @@ ERROR: Message ’bark’ not understood.
 
 これらすべての仮説例では、大文字で始まる単語はオブジェクトを表すクラスです。ドットの後の小文字の単語は、それらのオブジェクトに送信されるメッセージ（またはメソッド）です。オブジェクトにメッセージを送信すると、常に何らかの情報が返されます。最後に、メッセージは引数を受け入れる(または必要とする)こともあります。引数は、メッセージの直後に括弧で囲まれたものです。Cat.eat( "sardines",2)では、食べるというメッセージと、何を食べるのか、と量という非常に具体的な情報とともに、食べるメッセージが Cat に送信されています。かっこ内で明示的に宣言された引数(コロンで終わるキーワード)が表示される場合があります。これは、議論が何を指しているのかを読者に思い出させるのに便利です。Dog.bark(volume：10) は、単に Dog.bark(10) よりも自明です。
 
-![Figure04](https://github.com/dauuricus/supercollider_tutorial_book/blob/master/Figure04.png)
+![Figure04](https://github.com/dauuricus/supercollider_tutorial_book/blob/master/Figure04.PNG)
 
 図4 Hypothetical class hierarchy
 
