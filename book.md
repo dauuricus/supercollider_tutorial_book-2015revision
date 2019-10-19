@@ -13,7 +13,7 @@
 
   **2014**
 
-#  SuperColliderのやさしい紹介(第2版)
+# SuperColliderのやさしい紹介(第2版)
 
  
 
