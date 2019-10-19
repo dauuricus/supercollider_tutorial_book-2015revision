@@ -505,7 +505,7 @@ Pbind は、音度（主音との音程に従って、番号を振ったもの�
 
 次の例では、4つの Pbind がすべて同じ音符を演奏します：中央のCの上のA (A4)。  
 
-![Figure02](https://github.com/dauuricus/supercollider_tutorial_book/blob/master/Figure0.png)
+![Figure02](https://github.com/dauuricus/supercollider_tutorial_book/blob/master/Figure02.png)
 
 図2：音階、ノート番号、ミディノット、および周波数の比較
 
