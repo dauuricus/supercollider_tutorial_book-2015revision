@@ -1767,7 +1767,7 @@ range メソッドは、単に UGen の出力を再スケーリングします�
 
 図7は、UGen 出力の再スケーリングにおける mul および add の動作を視覚化するのに役立ちます（SinOsc がデモとして使用されます）。
 
-![Figure07](https://github.com/dauuricus/supercollider_tutorial_book/blob/master/Figure07.png)
+![Figure07](https://github.com/dauuricus/supercollider_tutorial_book/blob/master/Figure07.PNG)
 
 図7: mul と add による UGen スケーリングレンジ 
 
