@@ -1348,7 +1348,7 @@ case
 
 同じタスクを数回実行していることに気付いたら、再利用可能な関数を作成するのがよいかもしれません。 関数は、"エンクロージャー"セクションで学習したように、中括弧内に記述されたものです。 David Touretzky は、次のように関数の概念を紹介しています。"関数は、データが流れるボックスとして考えてください。 関数は何らかの方法でデータを操作し、その結果が流出します。"*
 
-![Figure05](https://github.com/dauuricus/supercollider_tutorial_book/blob/master/Figure05.png)
+![Figure05](https://github.com/dauuricus/supercollider_tutorial_book/blob/master/Figure05.PNG)
 
  図5：関数の一般的な考え方。
 
@@ -1582,7 +1582,7 @@ SuperCollider IDEでヘルプファイルを探索する他の方法は、"Brows
 
 最初に括弧を開いて特定のメソッドに引数を追加すると、SCは小さな"ツールヒントヘルプ"を表示して、予想される引数が何であるかを示します。 たとえば、図6に表示される行の先頭を入力します。最初のかっこを開いた直後に、SinOsc.arの引数がfreq,phase,mul, および add であることを示すツールチップが表示されます。 また、デフォルト値が何であるかを示しています。 これは、SinOscヘルプファイルから取得する情報とまったく同じです。 ツールチップが消えた場合は、[ctrl + Shift + Space] で元に戻すことができます。 
 
-![Figure06](../../../Documents/github-images/Figure06.PNG)
+![Figure06](https://github.com/dauuricus/supercollider_tutorial_book/blob/master/Figure06.PNG)
 
 図6：入力すると役立つ情報が表示されます 
 
