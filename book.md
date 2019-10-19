@@ -85,7 +85,7 @@ Part of the [Composition Commons](http://network.bepress.com/arts-and-humanities
 ![Figure01](https://github.com/dauuricus/supercollider_tutorial_book/blob/master/Figure01.png)
 図1：SuperCollider IDEインターフェース。
 
-| ヒント：                                                     |
+| ![](https://github.com/dauuricus/supercollider_tutorial_book/blob/master/cat.svg)ヒント：                                                     |
 | ------------------------------------------------------------ |
 | このドキュメント全体を通して、ctrl(コントロール)は、LinuxおよびWindowsプラットフォームで使用されるキーボードショートカットのmodifierキーを示します。Mac OSXでは、代わりにcmd(コマンド)を使用します。 |
 
